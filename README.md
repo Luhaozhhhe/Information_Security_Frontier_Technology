@@ -1,1 +1,2 @@
-# Information-security-frontier-technology
+# NKU-CSSE0044-信息安全前沿技术结课论文
+信息安全班、信息安全与法学班专业选修课，1学分，挺水的，本人得了93分，感觉并不是很高
